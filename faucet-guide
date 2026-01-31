@@ -1,0 +1,78 @@
+# 🚰 Faucet & Test Token Management
+
+This section explains how to obtain and manage test tokens required for interacting with blockchain testnet environments.
+
+Test tokens are used to pay transaction fees and simulate real network activity.
+
+---
+
+## 1. What is a Faucet?
+
+A faucet is a service that distributes free test tokens to users.
+
+Characteristics:
+- Only works on testnet
+- No real monetary value
+- Rate-limited to prevent abuse
+
+---
+
+## 2. How to Use a Faucet
+
+General steps:
+
+1. Open the official faucet link.
+2. Paste your testnet wallet address.
+3. Complete verification (if required).
+4. Request tokens.
+5. Wait for confirmation.
+
+---
+
+## 3. Common Faucet Types
+
+### Public Faucets
+- No login required
+- Usually rate-limited by IP
+
+### Social Faucets
+- Require Discord or Twitter login
+
+### Developer Faucets
+- Require GitHub account or API key
+
+---
+
+## 4. Verify Token Balance
+
+After requesting tokens:
+- Open block explorer
+- Search your address
+- Confirm incoming transaction
+
+---
+
+## 5. Token Management Best Practices
+
+- Do not hoard test tokens
+- Request only what is needed
+- Use multiple test wallets if required
+- Never buy or sell test tokens
+
+---
+
+## 6. Common Issues
+
+| Issue | Cause |
+|------|------|
+| Faucet not responding | Server overload |
+| No tokens received | Wrong network |
+| Request rejected | Rate limit |
+| Invalid address | Wrong format |
+
+---
+
+## Summary
+
+Faucets are the entry point for all testnet activity.
+Understanding how they work prevents most beginner mistakes.
