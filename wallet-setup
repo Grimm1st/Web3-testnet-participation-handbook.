@@ -1,0 +1,78 @@
+# 🔐 Wallet Setup & Testnet Network Configuration
+
+This section explains how to prepare a crypto wallet for interacting with Web3 testnet environments.
+
+A dedicated testnet wallet is strongly recommended to avoid any risk to real assets.
+
+---
+
+## 1. Choose a Wallet
+
+Common wallets for testnet usage:
+
+- MetaMask (EVM-based networks)
+- Phantom (Solana-based)
+- OKX Wallet
+- Rabby Wallet
+
+Use browser extension versions for full compatibility.
+
+---
+
+## 2. Create a Testnet Wallet
+
+Steps:
+1. Install the wallet extension.
+2. Create a new wallet.
+3. Securely store the seed phrase offline.
+4. Do NOT reuse mainnet wallets.
+
+---
+
+## 3. Add Testnet Network
+
+If the network is not automatically available:
+
+Add it manually using:
+- Network name
+- RPC URL
+- Chain ID
+- Currency symbol
+- Block explorer URL
+
+These parameters are usually provided in the project's documentation.
+
+---
+
+## 4. Switch to Testnet Mode
+
+Some wallets require enabling testnets:
+- MetaMask → Settings → Advanced → Enable Test Networks
+
+Make sure you are not connected to mainnet.
+
+---
+
+## 5. Verify Connection
+
+To verify:
+- Open the official block explorer
+- Paste your address
+- Confirm network matches testnet
+
+---
+
+## 6. Security Notes
+
+Best practices:
+- Never share private keys
+- Never sign unknown messages
+- Avoid fake faucets
+- Use hardware wallet only for mainnet
+
+---
+
+## Summary
+
+A properly configured wallet is the foundation of all testnet interactions.
+Without correct network setup, all further testing becomes unreliable.
